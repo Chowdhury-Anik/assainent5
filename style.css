@@ -1,0 +1,24 @@
+.meal{
+    background: #f8e3ba;
+    border-radius: 15px;
+    box-shadow: 5px rgb(189, 183, 183) ;
+    padding: 3px;
+}
+
+#ingredients{
+    display: none;
+}
+
+#message-notFound{
+    display: none;   
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(156, 154, 154) ;
+    color: white;
+    text-align: center;
+}
